@@ -1,0 +1,5 @@
+https://github.com/NameNotGiven/calculator
+
+
+I did the general code and setting up of the buttons, plus the math,
+my partner did the styling and layout of the buttons.
